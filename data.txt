@@ -1,0 +1,2 @@
+Hello, Go!
+This line is appended.
